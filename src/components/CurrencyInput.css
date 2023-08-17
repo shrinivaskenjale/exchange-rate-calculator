@@ -1,0 +1,13 @@
+.currency {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.currency input,
+.currency select {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: transparent;
+  text-align: center;
+}
